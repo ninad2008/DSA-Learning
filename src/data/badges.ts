@@ -76,3 +76,4 @@ export const ALL_BADGES: Badge[] = [
     rarity: 'epic',
   }
 ];
+

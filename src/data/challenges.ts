@@ -396,3 +396,4 @@ export const ALL_CHALLENGES: Challenge[] = [
     validatorFnName: 'validateIndexHeap'
   }
 ];
+

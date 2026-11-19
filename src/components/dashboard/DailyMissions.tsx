@@ -69,3 +69,4 @@ export const DailyMissions: React.FC = () => {
     </div>
   );
 };
+

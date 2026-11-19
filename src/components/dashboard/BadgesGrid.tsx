@@ -106,3 +106,4 @@ export const BadgesGrid: React.FC = () => {
     </div>
   );
 };
+

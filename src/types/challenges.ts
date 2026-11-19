@@ -45,3 +45,4 @@ export interface ChallengeSubmissionResult {
   }[];
   executionTimeMs: number;
 }
+

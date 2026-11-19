@@ -168,3 +168,4 @@ export const FixStructureGame: React.FC = () => {
     </div>
   );
 };
+

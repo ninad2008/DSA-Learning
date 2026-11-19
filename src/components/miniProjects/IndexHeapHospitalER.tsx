@@ -273,3 +273,4 @@ export const IndexHeapHospitalER: React.FC = () => {
     </div>
   );
 };
+

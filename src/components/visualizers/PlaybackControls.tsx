@@ -187,3 +187,4 @@ export const PlaybackControls: React.FC<PlaybackControlsProps> = ({
     </div>
   );
 };
+

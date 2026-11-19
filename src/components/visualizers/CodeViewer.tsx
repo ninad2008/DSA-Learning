@@ -96,3 +96,4 @@ export const CodeViewer: React.FC<CodeViewerProps> = ({ snippetKey, activeLine }
     </div>
   );
 };
+

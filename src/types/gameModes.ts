@@ -39,3 +39,4 @@ export interface SpeedRoundItem {
   correctIndex: number;
   timeLimitSec: number;
 }
+

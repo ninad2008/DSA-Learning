@@ -104,3 +104,4 @@ export const Dashboard: React.FC<DashboardProps> = ({ onOpenModule, onNavigate }
     </div>
   );
 };
+

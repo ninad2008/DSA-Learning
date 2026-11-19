@@ -109,3 +109,4 @@ export const Navbar: React.FC<NavbarProps> = ({ onOpenLeaderboard, activeView, o
     </header>
   );
 };
+

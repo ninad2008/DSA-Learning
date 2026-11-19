@@ -419,3 +419,4 @@ export const MODULES_DATA: Record<ModuleId, ModuleMetadata> = {
     ]
   }
 };
+

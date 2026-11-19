@@ -44,3 +44,4 @@ export interface LeaderboardEntry {
   badge: string;
   rank: number;
 }
+

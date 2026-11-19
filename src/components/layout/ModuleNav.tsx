@@ -48,3 +48,4 @@ export const ModuleNav: React.FC<ModuleNavProps> = ({ activeView, onNavigate }) 
     </nav>
   );
 };
+

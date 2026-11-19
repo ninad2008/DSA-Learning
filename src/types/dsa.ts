@@ -120,3 +120,4 @@ export interface IndexHeapState {
   swappingPq?: [number, number];
   comparingPq?: [number, number];
 }
+

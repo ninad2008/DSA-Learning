@@ -163,3 +163,4 @@ export const SpeedChallengeGame: React.FC = () => {
     </div>
   );
 };
+

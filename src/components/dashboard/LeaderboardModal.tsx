@@ -100,3 +100,4 @@ export const LeaderboardModal: React.FC<LeaderboardModalProps> = ({ isOpen, onCl
     </div>
   );
 };
+

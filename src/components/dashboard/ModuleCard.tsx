@@ -102,3 +102,4 @@ export const ModuleCard: React.FC<ModuleCardProps> = ({ moduleId, onOpenModule }
     </div>
   );
 };
+

@@ -188,3 +188,4 @@ export const ConceptQuiz: React.FC<ConceptQuizProps> = ({ moduleId, onPass }) =>
     </div>
   );
 };
+
